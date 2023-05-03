@@ -123,8 +123,8 @@ Overall, this project aims to improve the online shopping experience for regular
    - Added item to local storage and display it on the cart, added remove button,
   
 ## Live Site and Repository
-- For finish product, go to this link: https://davidhccnguyen.github.io/EazyShopping/
-- Group Repository: https://github.com/DavidHCCNguyen/EazyShopping
+- For finish product, go to this link: https://davidhccnguyen.github.io/EasierShopping/
+- Group Repository: https://github.com/DavidHCCNguyen/EasierShopping
 
 ## References and Credits
 - Necolas' [Normalize.css](https://github.com/necolas/normalize.css) for better view for small, medium and large screens.
