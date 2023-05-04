@@ -120,7 +120,7 @@ Overall, this project aims to improve the online shopping experience for regular
   
 - Maya
    - Added ID attribute to the button and event listener on the add to cart button.
-   - Added item to local storage and display it on the cart, added remove button,
+   - Added item to local storage and display it on the cart, added remove button.
   
 ## Live Site and Repository
 - For finish product, go to this link: https://davidhccnguyen.github.io/EasierShopping/
